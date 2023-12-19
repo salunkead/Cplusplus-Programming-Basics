@@ -1,4 +1,4 @@
-// Member function of one class friend of another class
+// One function friend of two classes
 #include <iostream>
 using namespace std;
 class second;
